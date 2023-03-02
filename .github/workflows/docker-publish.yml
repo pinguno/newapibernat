@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: castaan/bernatapi:latest , castaan/bernatapi:${{github.event.pull_request.title}}
+          tags: r4f4hc8/newapibernat:latest , pinguno/newapibernat:${{github.event.pull_request.title}}
