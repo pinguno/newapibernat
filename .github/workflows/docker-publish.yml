@@ -26,3 +26,5 @@ jobs:
         with:
           push: true
           tags: r4f4hc8/newapibernat:latest , pinguno/newapibernat:${{github.event.pull_request.title}}
+
+          
